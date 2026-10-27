@@ -1,0 +1,9 @@
+services:
+  app:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      DECISION_CUTOFF: "09:00"
+    volumes:
+      - ./backend/data:/app/data   # cached Elexon CSVs persist between runs
