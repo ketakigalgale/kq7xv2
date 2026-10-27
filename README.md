@@ -8,7 +8,7 @@ Elexon national wind data only:
 
 Scope: purchase decisions made in **January 2026** (delivery days 1 to 31 January 2026, decided on the day before).
 
-**Live app:** `<ADD VERCEL OR HEROKU URL HERE>`
+**Live app:** `https://kq7xv2-gvhs.vercel.app/`
 **Video:** `<ADD UNLISTED YOUTUBE URL HERE>`
 
 ## AI tools disclosure
